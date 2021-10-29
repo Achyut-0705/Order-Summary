@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot.jpg)
+![](https://github.com/Achyut-0705/Order-Summary/blob/main/image.jpg?raw=true)
 
 ### Links
 
